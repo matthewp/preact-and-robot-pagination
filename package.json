@@ -1,0 +1,20 @@
+{
+  "name": "preact-and-robot-paginate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "preact": "8.5.2",
+    "preact-robot": "0.1.0",
+    "robot3": "0.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
